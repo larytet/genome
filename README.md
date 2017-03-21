@@ -8,6 +8,9 @@
 *  https://bitbucket.org/mhowison/seqdb
 
 
+## Literature 
+
+*  "Data compression for sequencing data" has a summary of compressions software.
 
 ## Some ideas
 
