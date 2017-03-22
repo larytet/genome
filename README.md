@@ -30,3 +30,4 @@ A columnar, non-SQL database is assumed as a best fit for the task.
 *  SELECT [catalogue name] [catalogue date] [recording date] [last use date] [last modification date] [pattern] [score]
 *  CONVERT [from fromat] [to format]
 *  FIND (genomes ...) [longest match] [first best alignment] [Nth best alignment] [overlaps]
+*  INSERT/DELETE [remove pattern] [from offest to offset] [partial matches]
