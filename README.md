@@ -14,7 +14,7 @@ The original task belongs to [Mohamed Samour](https://www.linkedin.com/in/mohame
 
 ## Literature 
 
-*  "Data compression for sequencing data" has a summary of compressions software.
+*  Start with "Data compression for sequencing data" - it has a summary of compressions software.
 
 ## Some ideas
 
