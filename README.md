@@ -25,6 +25,8 @@ The original task belongs to [Mohamed Samour](https://www.linkedin.com/in/mohame
 
 ## Use cases - Database
 
-*  SELECT [catalogue name] [recording date]
+A columnar, non-SQL database is assumed as a best fit for the task.
+
+*  SELECT [catalogue name] [catalogue date] [recording date] [last use date] [last modification date] [pattern] [score]
 *  CONVERT [from fromat] [to format]
-* 
+*  FIND (genomes ...) [longest match] [first best alignment] [Nth best alignment] [overlaps]
