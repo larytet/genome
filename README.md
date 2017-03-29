@@ -45,3 +45,11 @@ A columnar, non-SQL database is assumed as a best fit for the task.
 *  CONVERT [from fromat] [to format]
 *  FIND (genomes ...) [longest match] [first best alignment] [Nth best alignment] [overlaps]
 *  INSERT/DELETE [remove pattern] [from offest to offset] [partial matches]
+
+
+
+# Questions
+
+*  What is "expression level" in the following quote "Expression levels reported by Cufflinks in FPKM units are usually comparable between samples, but in certain situations, applying an extra level of normalization can remove sources of bias in the data. " Probably relevant https://en.wikipedia.org/wiki/Gene_expression
+*  What does "Quantifying gene and transcript expression" do exactly?
+*  
