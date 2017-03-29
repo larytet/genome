@@ -12,6 +12,16 @@ The original task belongs to [Mohamed Samour](https://www.linkedin.com/in/mohame
 *  https://bitbucket.org/mhowison/seqdb
 
 
+### A few databases:
+*  https://www.ncbi.nlm.nih.gov/sra/
+*  https://cancergenome.nih.gov/
+*  http://www.internationalgenome.org/
+
+### Workflows
+
+*  http://cole-trapnell-lab.github.io/cufflinks/manual/
+*  https://bioedge.lanl.gov/edge_ui/  Government/Public effort for a web-based analysis tool (has good diagrams on landing page about workflow)
+
 ## Literature 
 
 *  Start with "Data compression for sequencing data" - it has a summary of compressions software.
