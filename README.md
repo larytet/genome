@@ -13,7 +13,7 @@ The original task belongs to [Mohamed Samour](https://www.linkedin.com/in/mohame
 
 ## Tools
 
-*  [TopHat](http://ccb.jhu.edu/software/tophat/index.shtml) is a fast splice junction mapper for RNA-Seq reads. It aligns RNA-Seq reads to mammalian-sized genomes using the ultra high-throughput short read aligner Bowtie, and then analyzes the mapping results to identify splice junctions between exons. 
+*  [TopHat](http://ccb.jhu.edu/software/tophat/index.shtml) is a fast splice junction mapper for RNA-Seq reads. It aligns RNA-Seq reads to mammalian-sized genomes using the ultra high-throughput short read aligner Bowtie, and then analyzes the mapping results to identify splice junctions between exons. See also [HISAT2](http://ccb.jhu.edu/software/hisat2/index.shtml)
 
 
 ### A few databases:
